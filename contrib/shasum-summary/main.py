@@ -4,7 +4,7 @@ import argparse
 import subprocess
 
 USERNAME_ALPHABET = list(string.ascii_letters)
-SYMBOLS = ["░", "▞", "▄", "▀", "▌", "▐", "▚"]
+SYMBOLS = ["◆", "▞", "▄", "▀", "▌", "▐", "▚"]
 SYMBOL_MATCH = "█"
 SYMBOL_MISSING = "X"
 
